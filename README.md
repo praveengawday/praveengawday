@@ -1,8 +1,61 @@
-### Hi there 👋
+<div align="center">
+    <div class="col-md-12 text-center">
+      <img height="180em" alt="Hello Developers!"  src="https://github.com/byuvraj/byuvraj/blob/main/welcome.gif"/>
+    </div>
+<hr>
+<h2> I am Praveen Gawday!</h2>
+<h4>A web developer and contineous learner💻</h4>
+</div>
+<hr>
+<div align="center">
+
+Finally I Got opportunity to<h3 style="font-weight:900;font-size:3em">Welcome You</h3>to my Github profile.<br>
+<hr>
+<div align="Left">
+  Tools I use! 🛠️<br/>
+<img src="https://img.shields.io/badge/CPP-black?style=for-the-badge&logo=c&logoColor=blue"></img> <img src="https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=javascript&logoColor=yellow"> </img><img src="https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=csharp&logoColor=white"></img> <img src="https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react&logoColor=blue"> </img> <img src="https://img.shields.io/badge/css-white?style=for-the-badge&logo=css&logoColor=white"></img>
+<br><div align="center"> 
+  <hr>
+  <br>
+  <br>
+
+🔭 I’m currently working on a small web application
+<br>
+<br>
+
+🌱 I’m currently learning React⚛️ 
+<br>
+<br>
+⚡  Fun fact: I Play video games 🎮
+</div>
+<i>Happy Coding!</i> 😊
+
+</div>
+
+
+
+
+</br>
+</br>
+
+---
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/praveengawday">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=praveengawday&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=praveengawday&layout=compact&langs_count=8&theme=vue"/>
+</a>
+</p>
+<i>Follow me around the web:</i><br>
+
+
+<a target="_blank" href="https://www.linkedin.com/in/yuvraj-bhalekar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a target="_blank" href="https://www.instagram.com/er.yuvraj__" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a target="_blank" href="https://www.facebook.com/yuvraj.bhalekar.16" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+
+</div>
 
 <!--
-**praveengawday/praveengawday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +67,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-----
